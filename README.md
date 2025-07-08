@@ -80,10 +80,6 @@ You can view the live preview of the project [here](https://code-sync-live.verce
    http://localhost:5173/
    ```
 
-### 🎥 Need help with the setup?
-
-👉 Watch [this video](https://youtu.be/zVHwOmU0aqo) for a step-by-step guide.
-
 ### Method 2: Docker Installation
 
 1. **Install Docker Desktop:**
@@ -94,12 +90,11 @@ You can view the live preview of the project [here](https://code-sync-live.verce
      docker --version
      ```
 
-
-
+   ```
 
    ```
 
-4. **Access the application:**
+2. **Access the application:**
    ```bash
    http://localhost:5173/
    ```
